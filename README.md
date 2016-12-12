@@ -2,7 +2,9 @@
 ##**NO LONGER SUPPORTED**
 I'm sorry guys but I've just lost interest in this project. This was literally my first project in Python and I've encountered problems out the wazoo as I started on Windows and developed it for Windows. If I was to ever to remake this, it'd be from the ground-up and in Python 3. It's been ages since I started and it shows.
 
-Let it be known that Crunchyroll has had no influence of me dropping this. If anyone wants to take over, then feel free to fork and merge PRs. I'll leave this repo up for archival purposes, but I'll no longer merge any PRs or comment on issues. If anyone wants to make an "official" fork, @mention me in an issue and I'll link it here.
+Let it be known that Crunchyroll has had no influence of me dropping this. If anyone wants to take over, then feel free to fork and merge PRs. I'll leave this repo up for archival purposes, but I'll no longer merge any PRs or comment on issues. 
+
+For a maintained fork, see (CrunchyRollXML from jaw20)[https://github.com/jaw20/CrunchyRollXML].
 
 Be seeing ya.
 
