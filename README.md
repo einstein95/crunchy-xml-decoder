@@ -4,7 +4,7 @@ I'm sorry guys but I've just lost interest in this project. This was literally m
 
 Let it be known that Crunchyroll has had no influence of me dropping this. If anyone wants to take over, then feel free to fork and merge PRs. I'll leave this repo up for archival purposes, but I'll no longer merge any PRs or comment on issues. 
 
-For a maintained fork, see [https://github.com/jaw20/CrunchyRollXML](CrunchyRollXML from jaw20).
+For a maintained fork, see [CrunchyRollXML from jaw20](https://github.com/jaw20/CrunchyRollXML).
 
 Be seeing ya.
 
